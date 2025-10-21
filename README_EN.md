@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Đinh Công Tú  
+# 🇬🇧 Dinh Cong Tu
+
+[🇻🇳 Phiên bản tiếng Việt](./README.md)
 
 🎓 **Computer Science Student** at [VNU - University of Engineering and Technology (UET)](https://uet.vnu.edu.vn)  
 🌍 Based in **Cầu Giấy, Hà Nội**  
