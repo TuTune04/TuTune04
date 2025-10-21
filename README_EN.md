@@ -1,4 +1,4 @@
-# 🇬🇧 Dinh Cong Tu
+# Dinh Cong Tu
 
 [🇻🇳 Phiên bản tiếng Việt](./README.md)
 
